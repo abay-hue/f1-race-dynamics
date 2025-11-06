@@ -3,6 +3,13 @@
 Feature engineering (stints/tires/weather) + XGBoost; SHAP for explainability.
 
 ## Quickstart
+
+## Demo
+- Screenshot/GIF here
+
+## Results
+- Metric table (e.g., accuracy / AUC / MAE)
+
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
